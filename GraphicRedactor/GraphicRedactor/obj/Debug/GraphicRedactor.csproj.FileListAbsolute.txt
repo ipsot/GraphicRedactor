@@ -1,0 +1,9 @@
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Form1.resources
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+C:\Users\mort8\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
